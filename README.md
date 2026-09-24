@@ -34,4 +34,4 @@ The in-app copy of the policy is kept in sync manually in the
 
 ## Contact
 
-iam_nmzar@gmail.com
+iam.nmzar@gmail.com
