@@ -1,6 +1,6 @@
-# Codex-VPN — Privacy Policy
+# Norda VPN — Privacy Policy
 
-Public legal pages for the **Codex-VPN** mobile application, served with
+Public legal pages for the **Norda VPN** mobile application, served with
 GitHub Pages (free).
 
 ## Live URLs
@@ -12,6 +12,7 @@ GitHub Pages (free).
 
 - `docs/privacy.html` — the full privacy policy (self-contained, responsive).
 - `docs/index.html` — small landing page linking to the policy.
+- `docs/assets/logo.png` — the Norda VPN logo.
 
 ## Publishing (GitHub Pages)
 
