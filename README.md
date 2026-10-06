@@ -3,6 +3,9 @@
 Public legal pages for the **Zystra VPN** mobile application, served with
 GitHub Pages (free).
 
+Zystra VPN is a product of **Across Cloud LLC**, developed by
+**codex-zubair** (codexzubair.com).
+
 ## Live URLs
 
 - Privacy Policy: https://codex-zubair.github.io/vpn_privacy_policy/privacy.html
